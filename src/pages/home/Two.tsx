@@ -44,7 +44,6 @@ const Two = () => {
               <div className="flex flex-col lg:flex-row gap-4">
                 <a
                   href="/swap"
-                  target="_blank"
                   className="bg-[#E59635] rounded-full p-3 px-6  flex items-center justify-center"
                 >
                   <button
@@ -56,7 +55,6 @@ const Two = () => {
                 </a>
                 <a
                   href="/swap"
-                  target="_blank"
                   className="bg-[#1D1306] rounded-full p-3 px-6 flex items-center justify-center "
                 >
                   <button
@@ -110,7 +108,6 @@ const Two = () => {
               <div className="flex flex-col lg:flex-row gap-4">
                 <a
                   href="/swap"
-                  target="_blank"
                   className="bg-[#E59635] rounded-full p-3 px-6  flex items-center justify-center"
                 >
                   <button
@@ -122,7 +119,6 @@ const Two = () => {
                 </a>
                 <a
                   href="/swap"
-                  target="_blank"
                   className="bg-[#1D1306] rounded-full p-3 px-6 flex items-center justify-center "
                 >
                   <button
@@ -150,7 +146,6 @@ const Two = () => {
               <div className="flex flex-col lg:flex-row gap-4">
                 <a
                   href="/swap"
-                  target="_blank"
                   className="bg-[#E59635] rounded-full p-3 px-6  flex items-center justify-center"
                 >
                   <button
@@ -162,7 +157,6 @@ const Two = () => {
                 </a>
                 <a
                   href="/swap"
-                  target="_blank"
                   className="bg-[#1D1306] rounded-full p-3 px-6 flex items-center justify-center "
                 >
                   <button

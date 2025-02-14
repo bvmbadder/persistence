@@ -9,7 +9,6 @@ const Paerners = () => {
         </div>
         <div className="flex gap-5 flex-wrap justify-center">
           <a
-            target="_blank"
             rel="noopener"
             className="chakra-link relative  w-[100px] h-[34px] lg:w-[187px] lg:h-[64px] pointer text-black shadow rounded-[30px] outline outline-1 outline-transparent outline-offset-[2px]"
             href="https://www.bsquared.network/"
@@ -33,7 +32,6 @@ const Paerners = () => {
             />
           </a>
           <a
-            target="_blank"
             rel="noopener"
             className="chakra-link relative  w-[100px] h-[34px] lg:w-[187px] lg:h-[64px] pointer text-black shadow rounded-[30px] outline outline-1 outline-transparent outline-offset-[2px]"
             href="https://www.base.org/"
@@ -57,7 +55,6 @@ const Paerners = () => {
             />
           </a>
           <a
-            target="_blank"
             rel="noopener"
             className="chakra-link relative  w-[100px] h-[34px] lg:w-[187px] lg:h-[64px] pointer text-black shadow rounded-[30px] outline outline-1 outline-transparent outline-offset-[2px]"
             href="https://www.gobob.xyz/"
@@ -81,7 +78,6 @@ const Paerners = () => {
             />
           </a>
           <a
-            target="_blank"
             rel="noopener"
             className="chakra-link relative  w-[100px] h-[34px] lg:w-[187px] lg:h-[64px] pointer text-black shadow rounded-[30px] outline outline-1 outline-transparent outline-offset-[2px]"
             href="https://layerzero.network/"
@@ -105,7 +101,6 @@ const Paerners = () => {
             />
           </a>
           <a
-            target="_blank"
             rel="noopener"
             className="chakra-link relative  w-[100px] h-[34px] lg:w-[187px] lg:h-[64px] pointer text-black shadow rounded-[30px] outline outline-1 outline-transparent outline-offset-[2px]"
             href="https://merlinchain.io/"
@@ -129,7 +124,6 @@ const Paerners = () => {
             />
           </a>
           <a
-            target="_blank"
             rel="noopener"
             className="chakra-link relative  w-[100px] h-[34px] lg:w-[187px] lg:h-[64px] pointer text-black shadow rounded-[30px] outline outline-1 outline-transparent outline-offset-[2px]"
             href="https://www.bitlayer.org/"
@@ -153,7 +147,6 @@ const Paerners = () => {
             />
           </a>
           <a
-            target="_blank"
             rel="noopener"
             className="chakra-link relative  w-[100px] h-[34px] lg:w-[187px] lg:h-[64px] pointer text-black shadow rounded-[30px] outline outline-1 outline-transparent outline-offset-[2px]"
             href="https://www.bnbchain.org/"
@@ -177,7 +170,6 @@ const Paerners = () => {
             />
           </a>
           <a
-            target="_blank"
             rel="noopener"
             className="chakra-link relative  w-[100px] h-[34px] lg:w-[187px] lg:h-[64px] pointer text-black shadow rounded-[30px] outline outline-1 outline-transparent outline-offset-[2px]"
             href="https://www.botanixlabs.xyz/"
@@ -201,7 +193,6 @@ const Paerners = () => {
             />
           </a>
           <a
-            target="_blank"
             rel="noopener"
             className="chakra-link relative  w-[100px] h-[34px] lg:w-[187px] lg:h-[64px] pointer text-black shadow rounded-[30px] outline outline-1 outline-transparent outline-offset-[2px]"
             href="https://rootstock.io/"
@@ -225,7 +216,6 @@ const Paerners = () => {
             />
           </a>
           <a
-            target="_blank"
             rel="noopener"
             className="chakra-link relative  w-[100px] h-[34px] lg:w-[187px] lg:h-[64px] pointer text-black shadow rounded-[30px] outline outline-1 outline-transparent outline-offset-[2px]"
             href="https://metamask.io/"
@@ -249,7 +239,6 @@ const Paerners = () => {
             />
           </a>
           <a
-            target="_blank"
             rel="noopener"
             className="chakra-link relative  w-[100px] h-[34px] lg:w-[187px] lg:h-[64px] pointer text-black shadow rounded-[30px] outline outline-1 outline-transparent outline-offset-[2px]"
             href="https://www.okx.com/"

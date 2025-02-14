@@ -203,7 +203,6 @@ const Swap = () => {
         <div className="flex items-center flex-wrap gap-2 justify-center">
           <div className="chakra-stack css-eyeaxy">
             <a
-              target="_blank"
               rel="noopener"
               className="chakra-link css-spn4bz"
               href="https://persistence.one/"
@@ -212,7 +211,6 @@ const Swap = () => {
             </a>
             <div className="css-1y16ewv"></div>
             <a
-              target="_blank"
               rel="noopener"
               className="chakra-link css-spn4bz"
               href="https://persistence.one/termsofuse"
@@ -221,7 +219,6 @@ const Swap = () => {
             </a>
             <div className="css-1y16ewv"></div>
             <a
-              target="_blank"
               rel="noopener"
               className="chakra-link css-spn4bz"
               href="https://persistence.one/privacy"
@@ -233,7 +230,6 @@ const Swap = () => {
         </div>
         <div className="chakra-stack css-1igwmid">
           <a
-            target="_blank"
             rel="noopener"
             className="chakra-link css-kmbn6"
             href="https://t.me/persistenceone"
@@ -252,7 +248,6 @@ const Swap = () => {
             </svg>
           </a>
           <a
-            target="_blank"
             rel="noopener"
             className="chakra-link css-kmbn6"
             href="https://twitter.com/PersistenceOne?utm_source=persistence_dex&amp;utm_medium=persistence&amp;utm_campaign=persistence"
@@ -271,7 +266,6 @@ const Swap = () => {
             </svg>
           </a>
           <a
-            target="_blank"
             rel="noopener"
             className="chakra-link css-kmbn6"
             href="https://discord.persistence.one/"
@@ -290,7 +284,6 @@ const Swap = () => {
             </svg>
           </a>
           <a
-            target="_blank"
             rel="noopener"
             className="chakra-link css-kmbn6"
             href="https://github.com/dexter-zone"
@@ -311,7 +304,6 @@ const Swap = () => {
             </svg>
           </a>
           <a
-            target="_blank"
             rel="noopener"
             className="chakra-link css-kmbn6"
             href="https://blog.persistence.one/"

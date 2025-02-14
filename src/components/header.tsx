@@ -52,15 +52,9 @@ const Header = () => {
             </nav>
             <div className="flex flex-col gap-6 items-start mt-10 px-5  text-lg font-medium">
               <Link to="/functionalities">Functionalities</Link>
-              <Link to="/swap" target="_blank">
-                XPRT
-              </Link>
-              <Link to="/swap" target="_blank">
-                Connect
-              </Link>
-              <Link to="/swap" target="_blank">
-                Community
-              </Link>
+              <Link to="/swap">XPRT</Link>
+              <Link to="/swap">Connect</Link>
+              <Link to="/swap">Community</Link>
             </div>
           </div>
         </div>
@@ -82,15 +76,9 @@ const Header = () => {
           </Link>
           <div className="hidden lg:flex gap-6 items-center  text-lg font-medium">
             <Link to="/functionalities">Functionalities</Link>
-            <Link to="/swap" target="_blank">
-              XPRT
-            </Link>
-            <Link to="/swap" target="_blank">
-              Connect
-            </Link>
-            <Link to="/swap" target="_blank">
-              Community
-            </Link>
+            <Link to="/swap">XPRT</Link>
+            <Link to="/swap">Connect</Link>
+            <Link to="/swap">Community</Link>
           </div>
           <button
             onClick={() => setIsActive(true)}

@@ -16,11 +16,7 @@ const Hero = () => {
               Swap XPRT, BTC-variants and BTCFi tokens on Persistence DEX
             </span>
             <div className="flex flex-col lg:flex-row text-center gap-6 text-white">
-              <a
-                href="/swap"
-                target="_blank"
-                className="bg-[#E59635] rounded-full p-3 px-6 "
-              >
+              <a href="/swap" className="bg-[#E59635] rounded-full p-3 px-6 ">
                 <button
                   type="button"
                   className="flex items-center gap-2 bg-[#E59636]"
