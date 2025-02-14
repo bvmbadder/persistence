@@ -51,9 +51,7 @@ const Header = () => {
               </button>
             </nav>
             <div className="flex flex-col gap-6 items-start mt-10 px-5  text-lg font-medium">
-              <Link to="/functionalities" target="_blank">
-                Functionalities
-              </Link>
+              <Link to="/functionalities">Functionalities</Link>
               <Link to="/swap" target="_blank">
                 XPRT
               </Link>
@@ -83,9 +81,7 @@ const Header = () => {
             />
           </Link>
           <div className="hidden lg:flex gap-6 items-center  text-lg font-medium">
-            <Link to="/functionalities" target="_blank">
-              Functionalities
-            </Link>
+            <Link to="/functionalities">Functionalities</Link>
             <Link to="/swap" target="_blank">
               XPRT
             </Link>
