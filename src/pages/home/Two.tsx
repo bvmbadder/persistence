@@ -1,6 +1,7 @@
 import dex from "../../assets/dex.svg";
 import fuel from "../../assets/fuel.svg";
 import cross from "../../assets/cross-chain-swaps.svg";
+import { Link } from "react-router-dom";
 const Two = () => {
   return (
     <div className="bg-[#1f1307] relative">
@@ -42,8 +43,8 @@ const Two = () => {
                 </div>
               </div>
               <div className="flex flex-col lg:flex-row gap-4">
-                <a
-                  href="/swap"
+                <Link
+                  to="/swap"
                   className="bg-[#E59635] rounded-full p-3 px-6  flex items-center justify-center"
                 >
                   <button
@@ -52,9 +53,9 @@ const Two = () => {
                   >
                     Enter the App
                   </button>
-                </a>
-                <a
-                  href="/swap"
+                </Link>
+                <Link
+                  to="/swap"
                   className="bg-[#1D1306] rounded-full p-3 px-6 flex items-center justify-center "
                 >
                   <button
@@ -63,7 +64,7 @@ const Two = () => {
                   >
                     Learn More
                   </button>
-                </a>
+                </Link>
               </div>
             </div>
             <div className="hidden lg:block">
@@ -106,8 +107,8 @@ const Two = () => {
               </p>
 
               <div className="flex flex-col lg:flex-row gap-4">
-                <a
-                  href="/swap"
+                <Link
+                  to="/swap"
                   className="bg-[#E59635] rounded-full p-3 px-6  flex items-center justify-center"
                 >
                   <button
@@ -116,9 +117,9 @@ const Two = () => {
                   >
                     Get XPRT
                   </button>
-                </a>
-                <a
-                  href="/swap"
+                </Link>
+                <Link
+                  to="/swap"
                   className="bg-[#1D1306] rounded-full p-3 px-6 flex items-center justify-center "
                 >
                   <button
@@ -127,7 +128,7 @@ const Two = () => {
                   >
                     About XPRT
                   </button>
-                </a>
+                </Link>
               </div>
             </div>
           </div>
@@ -144,8 +145,8 @@ const Two = () => {
               </p>
 
               <div className="flex flex-col lg:flex-row gap-4">
-                <a
-                  href="/swap"
+                <Link
+                  to="/swap"
                   className="bg-[#E59635] rounded-full p-3 px-6  flex items-center justify-center"
                 >
                   <button
@@ -154,9 +155,9 @@ const Two = () => {
                   >
                     Try on Testnet
                   </button>
-                </a>
-                <a
-                  href="/swap"
+                </Link>
+                <Link
+                  to="/swap"
                   className="bg-[#1D1306] rounded-full p-3 px-6 flex items-center justify-center "
                 >
                   <button
@@ -165,7 +166,7 @@ const Two = () => {
                   >
                     Learn More
                   </button>
-                </a>
+                </Link>
               </div>
             </div>
             <div className="lg:flex items-center justify-end hidden w-1/2">

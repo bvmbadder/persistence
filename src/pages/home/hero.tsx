@@ -1,5 +1,6 @@
 import { ArrowRight } from "lucide-react";
 import hero from "../../assets/hero.mp4";
+import { Link } from "react-router-dom";
 
 const Hero = () => {
   return (
@@ -16,7 +17,7 @@ const Hero = () => {
               Swap XPRT, BTC-variants and BTCFi tokens on Persistence DEX
             </span>
             <div className="flex flex-col lg:flex-row text-center gap-6 text-white">
-              <a href="/swap" className="bg-[#E59635] rounded-full p-3 px-6 ">
+              <Link to="/swap" className="bg-[#E59635] rounded-full p-3 px-6 ">
                 <button
                   type="button"
                   className="flex items-center gap-2 bg-[#E59636]"
@@ -26,7 +27,7 @@ const Hero = () => {
                     <ArrowRight className="size-4" />
                   </span>
                 </button>
-              </a>
+              </Link>
               <button
                 type="button"
                 className="flex items-center gap-2 border bg-[#E596364D] border-[#E59636] rounded-full p-3 px-6"
